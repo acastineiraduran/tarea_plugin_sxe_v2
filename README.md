@@ -49,6 +49,10 @@ Servidor:
 Cliente:
 ![despues](imagenes/resultado2.png)
 
+------
+
+----
+
 ## Tarea: Plugin + Base de DatosTarefa - Enunciado
 Modifica el plugin del ejercicio anterior, para que recoja y use las palabras de una tabla de la base de datos.
 
